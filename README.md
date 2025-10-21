@@ -1,1 +1,1 @@
-Remmember to run npm install
+Remember to run npm install
